@@ -19,8 +19,8 @@ hi LineNr guifg=#444444 ctermfg=238 guibg=#011627 ctermbg=233 gui=NONE cterm=NON
 hi CursorLine guifg=#ff5874 ctermfg=204 guibg=#011627 ctermbg=233 gui=NONE cterm=NONE
 hi ColorColumn guibg=#222222 ctermbg=235 gui=NONE cterm=NONE
 hi DiffAdd guifg=#011627 ctermfg=233 guibg=#addb67 ctermbg=149 gui=NONE cterm=NONE
-hi DiffChange guifg=#011627 ctermfg=233 guibg=#7fdbca ctermbg=116 gui=NONE cterm=NONE
-hi DiffDelete guifg=#011627 ctermfg=233 guibg=#ff5874 ctermbg=204 gui=NONE cterm=NONE
+hi DiffChange guifg=#c792ea ctermfg=176 guibg=#7fdbca ctermbg=116 gui=NONE cterm=NONE
+hi DiffDelete guifg=#c792ea ctermfg=176 guibg=#ff5874 ctermbg=204 gui=NONE cterm=NONE
 hi DiffText guifg=#011627 ctermfg=233 guibg=#7fdbca ctermbg=116 gui=NONE cterm=NONE
 hi VertSplit guifg=#777777 ctermfg=243 gui=NONE cterm=NONE
 hi Folded guifg=#777777 ctermfg=243 guibg=#011627 ctermbg=233 gui=NONE cterm=NONE
@@ -36,7 +36,7 @@ hi EndOfBuffer guifg=#444444 ctermfg=238 guibg=#011627 ctermbg=233 gui=NONE cter
 hi Comment guifg=#637777 ctermfg=243 guibg=#011627 ctermbg=233 gui=italic cterm=italic
 hi Constant guifg=#addb67 ctermfg=149 guibg=#011627 ctermbg=233 gui=NONE cterm=NONE
 hi String guifg=#ecc48d ctermfg=222 guibg=#011627 ctermbg=233 gui=NONE cterm=NONE
-hi Identifier guifg=#7fdbca ctermfg=116 gui=NONE cterm=NONE
+hi Identifier guifg=#c792ea ctermfg=176 gui=NONE cterm=NONE
 hi Statement guifg=#82aaff ctermfg=111 gui=NONE cterm=NONE
 hi Operator guifg=#c792ea ctermfg=176 gui=NONE cterm=NONE
 hi Exception guifg=#addb67 ctermfg=149 gui=NONE cterm=NONE
